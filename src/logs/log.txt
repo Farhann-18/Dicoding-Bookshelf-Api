@@ -1,0 +1,4 @@
+20230415	13:08:00	410d2845-6ccc-484f-b8fe-29f908a1b4ab	Buku Buku A berhasil ditambahkan
+20230415	13:08:10	bd0f341a-1892-485e-a4ff-6fd2011141d4	Buku Buku A berhasil ditambahkan
+20230415	13:08:54	b25a2b87-277e-4b0b-92fd-37f8028606a7	Buku Buku A berhasil diperbarui
+20230415	13:09:15	1020c383-3e76-44e3-b862-0cf3abcae4c1	Buku Buku A Revisi berhasil dihapus
